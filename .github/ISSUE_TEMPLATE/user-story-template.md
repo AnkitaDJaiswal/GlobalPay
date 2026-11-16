@@ -1,5 +1,5 @@
 ---
-Name: User Story Template
+name: User Story Template
 About: Standard user story (or GitHub issues) template for GlobalPay development tasks.
 Title: New_Feature
 Labels: ''
