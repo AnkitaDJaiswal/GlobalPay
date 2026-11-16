@@ -1,10 +1,10 @@
 ---
 name: GlobalPay User Story Template
 about: Standard user story (or GitHub issues) template for GlobalPay development tasks.
-Title: New_Feature
-Labels: ''
-Assignees: AnkitaDJaiswal
-Type: Feature
+title: New_Feature
+labels: ''
+assignees: AnkitaDJaiswal
+type: Feature
 
 ---
 
