@@ -1,8 +1,11 @@
 ---
-Name: GlobalPay Development Task
-About: Standard template for GlobalPay development tasks
-Title: "GP-XXX: "
-Labels: ""
+name: User Story Template
+about: Standard user story (or GitHub issues) template for GlobalPay development tasks.
+title: New_Feature
+labels: ''
+assignees: AnkitaDJaiswal
+type: Feature
+
 ---
 
 ## 1. Description
